@@ -2,7 +2,7 @@
 
 In this project, I create a urdf two-wheel robot in Xacro(XML Macros), 
 with differntial drive and a python script which allows the automation navigate. 
-Also has an arm ,a camera and lidar. The control of the arm was done with a PID controller.
+Also has an arm ,a camera and a lidar. The control of the arm was done with a PID controller.
 
 ## Content
 * Config: Yaml file for the PID controller
