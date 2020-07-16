@@ -2,12 +2,12 @@
 
 In this project, i create a urdf two-wheel robot in Xacro(XML Macros), 
 with differntial drive and a python script which allows the automation navigate. 
-Also has an arm with a gripper. The control of the arm was done with a PID controller.
+Also has an arm ,a camera and lidar. The control of the arm was done with a PID controller.
 
 ## Content
 * Config: Yaml file for the PID controller
 * Launch: Launch files for Rviz Gazebo and the PID controller.
-* Meshes: The external file which are used, in this case is the gripper of the arm 
+* Meshes: The external file which are used, in this case are the camera and the lidar.
 * urdf: The robot design for Rviz and Gazebo
 * worlds: The startup world the robot will launch in Gazebo
 * move3.py: The navigation program
