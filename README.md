@@ -7,9 +7,9 @@ Also has an arm ,a camera and a lidar. The control of the arm was done with a PI
 ## Content
 * Config: Yaml file for the PID controller
 * Launch: Launch files for Rviz Gazebo and the PID controller.
-* Meshes: The external file which are used, in this case are the camera and the lidar.
+* Meshes: The external file which are used, in this case is for hokuyo lidar.
 * urdf: The robot design for Rviz and Gazebo
-* worlds: The startup world the robot will launch in Gazebo
+* worlds: The startup world that robot will launch in Gazebo
 * move3.py: The navigation program
 
 ## Video Result
